@@ -13,5 +13,5 @@ if-elif-else
 while loop
 input and print
 
-# hoe to run
+# how to run
 ai_chatbot.py
